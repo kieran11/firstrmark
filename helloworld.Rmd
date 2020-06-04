@@ -1,7 +1,11 @@
 ---
 title: "Hello World"
+<<<<<<< HEAD
 output: github_document
 
+=======
+output: html_document
+>>>>>>> 04e764456416e4242eb8d996881a3c7773ccf7f6
 ---
 
 ```{r setup, include=FALSE}
